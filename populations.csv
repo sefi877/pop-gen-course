@@ -1,0 +1,81 @@
+region,population,description,country,project,n,latitude,longitude
+Africa,ACB,African Caribbean in Barbados,Barbados,1000 Genomes,94,13.1,-59.6
+Africa,ASW,African Ancestry in Southwest USA,USA,1000 Genomes,53,35.5,-97.5
+Africa,ESN,Esan in Nigeria,Nigeria,1000 Genomes,103,9.1,7.5
+Africa,GWD,Gambian in Western Division,The Gambia,1000 Genomes,116,13.5,-16.6
+Africa,LWK,Luhya in Webuye,Kenya,1000 Genomes,90,-1.3,36.8
+Africa,MSL,Mende in Sierra Leone,Sierra Leone,1000 Genomes,83,8.5,-13.2
+Africa,YRI,Yoruba in Ibadan,Nigeria,1000 Genomes,117,7.4,3.9
+Africa,BantuKenya,"Bantu speakers, Kenya",Kenya,HGDP,10,-3.0,37.0
+Africa,BantuSouthAfrica,"Bantu speakers, South Africa",South Africa,HGDP,8,-25.6,24.2
+Africa,Biaka,Biaka (rainforest hunter-gatherers),Central African Republic,HGDP,22,4.0,17.0
+Africa,Mandenka,Mandenka,Senegal,HGDP,20,12.0,-12.0
+Africa,Mbuti,Mbuti (rainforest hunter-gatherers),DR Congo,HGDP,10,1.0,29.0
+Africa,San,San (Khoisan-speaking hunter-gatherers),Namibia,HGDP,6,-21.0,20.0
+Africa,Yoruba,Yoruba,Nigeria,HGDP,21,8.0,5.0
+America,CLM,Colombian in Medellin,Colombia,1000 Genomes,95,4.6,-74.1
+America,MXL,Mexican Ancestry in Los Angeles,USA,1000 Genomes,63,19.4,-99.1
+America,PEL,Peruvian in Lima,Peru,1000 Genomes,85,-12.0,-77.0
+America,PUR,Puerto Rican in Puerto Rico,Puerto Rico,1000 Genomes,104,18.4,-66.1
+America,Colombian,Piapoco and Curripaco (Native American),Colombia,HGDP,6,3.0,-68.0
+America,Karitiana,"Karitiana (Native American, Amazon)",Brazil,HGDP,7,-10.0,-63.0
+America,Maya,Maya (Native American),Mexico,HGDP,21,19.0,-91.0
+America,Pima,Pima (Native American),Mexico,HGDP,10,29.0,-108.0
+America,Surui,"Surui (Native American, Amazon)",Brazil,HGDP,4,-11.0,-62.0
+Central & South Asia,BEB,Bengali in Bangladesh,Bangladesh,1000 Genomes,99,23.7,90.4
+Central & South Asia,GIH,Gujarati Indian in Houston,USA,1000 Genomes,100,23.2,72.7
+Central & South Asia,ITU,Indian Telugu in the UK,UK,1000 Genomes,102,17.4,78.5
+Central & South Asia,PJL,Punjabi in Lahore,Pakistan,1000 Genomes,102,31.6,74.3
+Central & South Asia,STU,Sri Lankan Tamil in the UK,UK,1000 Genomes,101,6.9,79.9
+Central & South Asia,Balochi,Balochi,Pakistan,HGDP,23,30.5,66.5
+Central & South Asia,Brahui,Brahui,Pakistan,HGDP,23,30.5,66.5
+Central & South Asia,Burusho,Burusho,Pakistan,HGDP,24,36.5,74.0
+Central & South Asia,Hazara,Hazara,Pakistan,HGDP,18,33.5,70.0
+Central & South Asia,Kalash,Kalash,Pakistan,HGDP,21,36.0,71.5
+Central & South Asia,Makrani,Makrani,Pakistan,HGDP,23,26.0,64.0
+Central & South Asia,Pathan,Pathan,Pakistan,HGDP,24,33.5,70.5
+Central & South Asia,Sindhi,Sindhi,Pakistan,HGDP,23,25.5,69.0
+East Asia,CDX,Chinese Dai in Xishuangbanna,China,1000 Genomes,90,22.0,100.8
+East Asia,CHB,Han Chinese in Beijing,China,1000 Genomes,103,39.9,116.4
+East Asia,CHS,Southern Han Chinese,China,1000 Genomes,103,23.1,113.3
+East Asia,JPT,Japanese in Tokyo,Japan,1000 Genomes,102,35.7,139.7
+East Asia,KHV,Kinh in Ho Chi Minh City,Vietnam,1000 Genomes,101,10.8,106.7
+East Asia,Cambodian,Cambodian,Cambodia,HGDP,10,12.0,105.0
+East Asia,Dai,Dai,China,HGDP,8,21.0,100.0
+East Asia,Daur,Daur,China,HGDP,9,48.5,124.0
+East Asia,Han,Han Chinese,China,HGDP,33,32.3,114.0
+East Asia,Hezhen,Hezhen,China,HGDP,8,47.5,133.5
+East Asia,Japanese,Japanese,Japan,HGDP,28,37.5,139.0
+East Asia,Lahu,Lahu,China,HGDP,8,22.0,100.0
+East Asia,Miao,Miao,China,HGDP,10,28.0,109.0
+East Asia,Mongolian,Mongolian,China,HGDP,10,45.0,111.0
+East Asia,Naxi,Naxi,China,HGDP,7,26.0,100.0
+East Asia,NorthernHan,Northern Han Chinese,China,HGDP,10,32.3,114.0
+East Asia,Oroqen,Oroqen,China,HGDP,8,50.4,126.5
+East Asia,She,She,China,HGDP,9,27.0,119.0
+East Asia,Tu,Tu,China,HGDP,10,36.0,101.0
+East Asia,Tujia,Tujia,China,HGDP,10,29.0,109.0
+East Asia,Uygur,Uyghur,China,HGDP,6,44.0,81.0
+East Asia,Xibo,Xibo,China,HGDP,9,43.5,81.5
+East Asia,Yakut,Yakut (Sakha),Russia (Siberia),HGDP,25,63.0,129.5
+East Asia,Yi,Yi,China,HGDP,10,28.0,103.0
+Europe,CEU,Utah residents with Northern and Western European ancestry,USA,1000 Genomes,121,40.3,-111.1
+Europe,FIN,Finnish in Finland,Finland,1000 Genomes,98,60.2,24.9
+Europe,GBR,British in England and Scotland,UK,1000 Genomes,88,52.8,-1.9
+Europe,IBS,Iberian populations in Spain,Spain,1000 Genomes,104,40.4,-3.7
+Europe,TSI,Toscani in Italy,Italy,1000 Genomes,103,43.1,12.0
+Europe,Adygei,Adygei (Circassians),Russia (Caucasus),HGDP,17,44.0,39.0
+Europe,Basque,Basque,France,HGDP,22,43.0,0.0
+Europe,BergamoItalian,Italian from Bergamo,Italy,HGDP,11,46.0,10.0
+Europe,French,French,France,HGDP,27,46.0,2.0
+Europe,Orcadian,Orcadian (Orkney Islands),UK,HGDP,14,59.0,-3.0
+Europe,Russian,Russian,Russia,HGDP,25,61.0,40.0
+Europe,Sardinian,Sardinian,Italy,HGDP,27,40.0,9.0
+Europe,Tuscan,Tuscan,Italy,HGDP,8,43.0,11.0
+Middle East,Bedouin,Bedouin (Negev),Israel,HGDP,45,31.0,35.0
+Middle East,Druze,Druze (Carmel),Israel,HGDP,40,32.0,35.0
+Middle East,Mozabite,"Mozabite (Berber, Mzab valley)",Algeria,HGDP,25,32.0,3.0
+Middle East,Palestinian,Palestinian (central Israel),Israel,HGDP,40,32.0,35.0
+Oceania,Bougainville,Bougainville Islanders,Papua New Guinea,HGDP,10,-6.0,155.0
+Oceania,PapuanHighlands,Papuan (Highlands),Papua New Guinea,HGDP,9,-4.0,143.0
+Oceania,PapuanSepik,Papuan (Sepik),Papua New Guinea,HGDP,8,-4.0,143.0
